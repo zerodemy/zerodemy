@@ -1,7 +1,7 @@
 <!-- zerodemy -->
 
 <p align="center">
-  <img src=".imgs/ci53cover1.jpg">
+  <img src=".imgs/20221204_154111.jpg">
 </p>
 
 ##
