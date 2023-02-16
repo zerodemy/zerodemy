@@ -24,3 +24,10 @@ You can click the Preview link to take a look at your changes.
 <a href="https://m.youtube.com/@zerodemy"><img align="left" title="YouTube" alt="YouTube" width="30px" src=".assets/YouTube.png" />
 <a href="https://facebook.com/zerodemyOfficial"><img align="left" title="Facebook" alt="Facebook" width="30px" src=".assets/facebook.png" /></a>
 </a>
+
+##
+
+### Download app
+<a href="https://m.youtube.com/@zerodemy"><img align="left" title="YouTube" alt="YouTube" width="150px" src=".assets/play_store_di.jpg" />
+<a href="https://m.youtube.com/@zerodemy"><img align="left" title="YouTube" alt="YouTube" width="150px" src=".assets/app_store_di.jpg" />
+</a>
